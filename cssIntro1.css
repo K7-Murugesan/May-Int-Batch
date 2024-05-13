@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px ;
+    font-style: italic;
+    font-weight: 900;
+    text-align: start;
+    text-transform: lowercase;
+    text-shadow: 10px 20px 20px black ;
+    /* text-indent: 50px ;
+    word-spacing: 30px;
+    line-height: 200px;
+    letter-spacing: 5px; */
+    border: 10px solid red;
+    border-color: black;
+    border-top: 5px dotted blue;
+    border-right: 5px solid rgb(200, 181, 51);
+    border-bottom: 5px dashed rgb(183, 92, 22);
+    border-left: 5px double rgb(211, 60, 70);
+    border-width: 50px;
+    /* border-style: double; */
+    /* padding: 50px 20px ; */
+    padding: 50px 20px 100px 40px ;
+    /* outline: 10px solid red ;
+    outline-offset: 30px; */
+    /* margin:  100px ; */
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+table{
+    border-collapse: collapse;
+}
+a{
+    text-decoration: none;
+}
+section{
+    background-color: rgb(242, 235, 235) ;
+    width: 200px;
+    height: 400px;
+    /* padding: 10px; */
+    text-align: center;
+    box-shadow: 5px 10px 10px black;
+    margin: auto;
+}
+section img{
+    width: 100%;
+    height: 200px;
+    margin: 30px 0px;
+}
+section span{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    width: 100%;
+    height: 400px;
+    /* margin: 30px 0; */
+}
+
+section button{
+    margin: 30px 0px ;
+    /* margin: auto; */
+}
+
+
+
+/* body{
+    background: url("./images/foods/chickenbirya.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+} */
+
+
+
